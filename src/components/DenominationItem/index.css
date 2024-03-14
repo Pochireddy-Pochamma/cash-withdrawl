@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+.button {
+  background-color: #585076;
+  border: 1px solid #c4c4c4;
+  height: 40px;
+  width: 100px;
+  cursor: pointer;
+  outline: none;
+  border-radius: 5px;
+  color: #d4d2db;
+}
